@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
 "server":"",
 "server_ipv6":"::",
@@ -15,3 +16,6 @@
 "fast_open":false,
 "workers":1
 }
+=======
+
+>>>>>>> 2a255da8445bf42e13a2c9906de64dcb87b10014
