@@ -1,1 +1,1 @@
-python local.py -c shadowsocks.json -d start
+python local.py -c /etc/shadowsocks.json -d start
